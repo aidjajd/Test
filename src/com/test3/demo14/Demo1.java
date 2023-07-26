@@ -8,5 +8,6 @@ public class Demo1 {
         System.out.println("这是hot-fix");
         System.out.println("master 冲突");
         System.out.println("hot-fix 冲突");
+        System.out.println("push test");
     }
 }
