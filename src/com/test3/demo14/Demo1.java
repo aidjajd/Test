@@ -6,5 +6,7 @@ public class Demo1 {
         System.out.println("git test21");
         System.out.println("main fenzhi");
         System.out.println("这是hot-fix");
+        System.out.println("hot-fix 冲突");
+
     }
 }
